@@ -198,10 +198,10 @@
             // |             |            |  ALT | LEFT |					|  END |  ALT |
 
             bindings = <
-&layer_s   &kp Q      &kp W           &kp E      &kp R     &kp T      &kp Y                  &kp U            &kp I           &kp O         &kp P          &kp PLUS
-&kp LPAR   &kp A      &kp S           &kp D      &kp F     &kp G      &kp H                  &kp J            &kp K           &kp L         &kp SEMICOLON  &kp MINUS
-&kp RPAR   &kp Z      &kp X           &kp C      &kp V     &kp B      &kp N                  &kp M            &kp LEFT_BRACE  &kp ASTERISK  &kp PERIOD     &kp EQUAL
-&kp LCTRL  &kp SPACE  &kp LEFT_ARROW  &kp RIGHT  &kp TAB   &kp ENTER  &kp HASH               &kp RIGHT_SHIFT  &kp LEFT_BRACE  &kp COMMA     &kp PERCENT    &kp BACKSPACE
+&layer_s   &kp Q      &kp W           &kp E      &kp R     &kp T      &hm NUMBER_1 Y         &hm NUMBER_4 U   &hm NUMBER_7 I  &hm NUMBER_9 O  &kp P          &kp PLUS
+&kp LPAR   &kp A      &kp S           &kp D      &kp F     &kp G      &hm NUMBER_2 H         &hm NUMBER_5 J   &hm K NUMBER_8  &hm NUMBER_0 L  &kp SEMICOLON  &kp MINUS
+&kp RPAR   &kp Z      &kp X           &kp C      &kp V     &kp B      &hm NUMBER_3 N         &hm NUMBER_6 M   &kp LEFT_BRACE  &kp ASTERISK    &kp PERIOD     &kp EQUAL
+&kp LCTRL  &kp SPACE  &kp LEFT_ARROW  &kp RIGHT  &kp TAB   &kp ENTER  &kp HASH               &kp RIGHT_SHIFT  &kp LEFT_BRACE  &kp COMMA       &kp PERCENT    &kp BACKSPACE
                                                  &kp LWIN  &kp CAPS   &hm AMPERSAND AT_SIGN  &kp EXCLAMATION
             >;
         };
