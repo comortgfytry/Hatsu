@@ -202,7 +202,7 @@
 &kp AT     &kp A         &kp S             &hm UP D          &kp F              &kp G           &hm NUMBER_2 H  &hm NUMBER_5 J  &hm N8 K           &hm NUMBER_0 L        &kp RIGHT_PARENTHESIS  &kp EQUAL
 &kp HASH   &kp Z         &hm LEFT_ARROW X  &hm DOWN_ARROW C  &hm RIGHT_ARROW V  &hm LEFT_ALT B  &hm NUMBER_3 N  &hm NUMBER_6 M  &kp LBKT           &kp LEFT_PARENTHESIS  &kp PERIOD             &kp STAR
 &kp LCTRL  &kp LEFT_WIN  &kp AMPS          &kp CARET         &kp TAB            &kp ENTER       &kp SLASH       &kp SEMICOLON   &kp RIGHT_BRACKET  &kp COMMA             &kp LSHIFT             &kp TAB
-                                                             &kp APOSTROPHE     &kp CAPS        &kp PERCENT     &kp DELETE
+                                                             &kp APOSTROPHE     &kp CAPS        &kp PERCENT     &kp BSPC
             >;
         };
 
