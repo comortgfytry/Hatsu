@@ -198,11 +198,11 @@
             // |             |            |  ALT | LEFT |					|  END |  ALT |
 
             bindings = <
-&kp GRAVE  &hm EXCL Q    &kp W             &kp E             &kp R              &kp T           &hm NUMBER_1 Y  &hm NUMBER_4 U  &hm NUMBER_7 I     &hm NUMBER_9 O        &hm PIPE P             &kp MINUS
-&kp AT     &kp A         &kp S             &hm UP D          &kp F              &kp G           &hm NUMBER_2 H  &hm NUMBER_5 J  &hm N8 K           &hm NUMBER_0 L        &kp RIGHT_PARENTHESIS  &kp EQUAL
-&kp HASH   &kp Z         &hm LEFT_ARROW X  &hm DOWN_ARROW C  &hm RIGHT_ARROW V  &hm LEFT_ALT B  &hm NUMBER_3 N  &hm NUMBER_6 M  &kp LBKT           &kp LEFT_PARENTHESIS  &kp PERIOD             &kp STAR
-&kp LCTRL  &kp LEFT_WIN  &kp AMPS          &kp CARET         &kp CARET          &kp ENTER       &kp SLASH       &kp SEMICOLON   &kp RIGHT_BRACKET  &kp COMMA             &hm LSHIFT SPACE       &kp TAB
-                                                             &kp APOSTROPHE     &kp CAPS        &kp PERCENT     &kp BSPC
+&kp GRAVE  &hm EXCL Q       &kp W             &kp E             &kp R              &kp T           &hm NUMBER_1 Y  &hm NUMBER_4 U  &hm NUMBER_7 I     &hm NUMBER_9 O        &hm PIPE P             &kp MINUS
+&kp AT     &kp A            &kp S             &hm UP D          &kp F              &kp G           &hm NUMBER_2 H  &hm NUMBER_5 J  &hm N8 K           &hm NUMBER_0 L        &kp RIGHT_PARENTHESIS  &kp EQUAL
+&kp HASH   &hm BACKSLASH Z  &hm LEFT_ARROW X  &hm DOWN_ARROW C  &hm RIGHT_ARROW V  &hm LEFT_ALT B  &hm NUMBER_3 N  &hm NUMBER_6 M  &kp LBKT           &kp LEFT_PARENTHESIS  &kp PERIOD             &kp STAR
+&kp LCTRL  &kp LEFT_WIN     &kp AMPS          &kp CARET         &kp CARET          &kp ENTER       &kp SLASH       &kp SEMICOLON   &kp RIGHT_BRACKET  &kp COMMA             &hm LSHIFT SPACE       &kp TAB
+                                                                &kp APOSTROPHE     &kp CAPS        &kp PERCENT     &kp BSPC
             >;
         };
 
