@@ -201,7 +201,7 @@
 &hm CARET AMPERSAND  &kp Q         &kp W           &kp E              &kp R           &kp T      &kp Y             &kp U          &kp I              &kp O                 &kp P                  &kp NON_US_BACKSLASH
 &mo 1                &kp A         &kp S           &kp D              &kp F           &kp G      &kp H             &kp J          &kp K              &kp L                 &kp RIGHT_PARENTHESIS  &kp LESS_THAN
 &kp LEFT_ARROW       &kp Z         &kp X           &kp C              &kp V           &kp B      &kp N             &kp M          &kp LBKT           &kp LEFT_PARENTHESIS  &kp PERIOD             &kp GREATER_THAN
-&kp LCTRL            &kp LEFT_WIN  &hm HASH ASTRK  &hm QUESTION EXCL  &kp LEFT_SHIFT  &kp ENTER  &kp SLASH         &kp SEMICOLON  &kp RIGHT_BRACKET  &kp COMMA             &kp RIGHT              &kp TAB
+&kp LCTRL            &kp LEFT_WIN  &hm HASH ASTRK  &hm QUESTION EXCL  &kp RIGHT       &kp ENTER  &kp SLASH         &kp SEMICOLON  &kp RIGHT_BRACKET  &kp COMMA             &kp RIGHT_SHIFT        &kp TAB
                                                                       &kp APOSTROPHE  &kp CAPS   &kp SINGLE_QUOTE  &kp BSPC
             >;
         };
